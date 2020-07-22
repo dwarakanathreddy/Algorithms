@@ -1,0 +1,5 @@
+Quick sort in best implemented beats heap sort
+best case o(nlgn)
+worst case o(n^2)
+in place sort
+low hidden constants
