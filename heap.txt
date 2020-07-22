@@ -3,3 +3,4 @@ max heap-- where parent is greater than child
 parent is floor(n-1/2)
 left is 2i+1
 right is 2(i+1)
+we can find max or min element in O(logn) using heapify
